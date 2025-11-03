@@ -1,4 +1,4 @@
-# CIS-1051_FinalProject
+# CIS 1051 FinalProject Proposal
 My silly little final project proposal:
 
 I must create something cool, fabulous, stylish for my final project, to prove I learned code. 
