@@ -1,4 +1,4 @@
-[FINAL PROJECT VIDEO LINK]([url](https://youtu.be/Wn9fUFpBXfg))
+[FINAL PROJECT VIDEO LINK](https://youtu.be/Wn9fUFpBXfg)
 
 # CIS 1051 FinalProject Proposal
 My silly little final project proposal:
