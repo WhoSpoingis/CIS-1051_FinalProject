@@ -1,3 +1,5 @@
+VIDEO LINK: [https://youtu.be/Wn9fUFpBXfg](url)
+
 # CIS 1051 FinalProject Proposal
 My silly little final project proposal:
 
